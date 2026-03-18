@@ -6,4 +6,4 @@ ___
 
 디너에는 와인바, 런치에는 카츠, 카츠 산도를 서빙하는 레스토랑입니다.
 
-![](https://ldb-phinf.pstatic.net/20250910_267/1757498330602jLAF0_JPEG/302B145E-1F13-4ECA-8AC0-B470962F7290)
+![](https://ldb-phinf.pstatic.net/20250910_267/1757498330602jLAF0_JPEG/302B145E-1F13-4ECA-8AC0-B470962F7290.jpeg)
