@@ -1,5 +1,6 @@
 # 맛집 추천
 ## 브네
+### 서울 광진구 군자로 70 106호 VENEZ 브네
 ___
 ![](https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20250910_78%2F17574983410450Q000_JPEG%2F118716A1-D2A7-43F2-ACA7-8500DD28B68B.jpeg)
 
